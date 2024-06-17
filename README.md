@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics and Fundamentals of ML 
 - 💞️ I’m looking to collaborate on any Bi tools and Analytics
 - 📫 you can reach me on psriekanth026@gmail.com 
-- 😄 Pronouns: he?hm
+- 😄 Pronouns: he/him
 
 
 <!---
